@@ -1,0 +1,14 @@
+API Authentication Guide
+
+Authentication failures usually occur because:
+
+- Invalid API key
+- Expired token
+- Missing Authorization header
+- Incorrect endpoint
+
+Troubleshooting:
+1. Verify API key.
+2. Check token expiry.
+3. Regenerate credentials.
+4. Test API access again.

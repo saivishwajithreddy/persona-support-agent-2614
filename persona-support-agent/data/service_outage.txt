@@ -1,0 +1,6 @@
+Service Outage
+
+During outages:
+- Monitor status page.
+- Retry after service restoration.
+- Contact support for urgent cases.
